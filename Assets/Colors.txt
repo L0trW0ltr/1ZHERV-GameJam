@@ -1,0 +1,12 @@
+window
+	69b8f5
+	325afa
+	black
+
+door
+	
+
+
+https://github.com/h8man/NavMeshPlus
+https://www.youtube.com/watch?v=LNLVOjbrQj4 - topdown movement
+https://www.youtube.com/watch?v=venyIsxqtxY - full course 2d platformer
